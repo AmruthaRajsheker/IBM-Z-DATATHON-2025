@@ -1,6 +1,6 @@
 # AutoGovern Z
 
-### **1. Define the Problem Statement (≤ 200 words)**
+### **1. Problem Statement **
 
 In today’s AI-driven financial and enterprise ecosystems, regulatory compliance, fairness, and transparency have become critical challenges. As AI models increasingly influence credit scoring, investment decisions, and policy automation, organizations face rising scrutiny over model bias, data drift, and opaque decision pipelines. Traditional audit processes are manual, reactive, and incapable of monitoring real-time AI behavior at scale.
 This lack of continuous governance undermines trust in both artificial intelligence and the mainframe-based systems that power global finance.
@@ -8,7 +8,7 @@ This lack of continuous governance undermines trust in both artificial intellige
 
 ---
 
-### **2. Describe your Proposed Solution (≤ 200 words)**
+### **2. Describe your Proposed Solution **
 
 **AutoGovern Z** is an AI-for-AI governance engine that autonomously monitors, audits, and enforces compliance of machine-learning models deployed on hybrid mainframe environments. Built using **IBM Z + watsonx.governance**, the system ingests model metadata, inference logs, and fairness metrics in real time. It applies meta-learning algorithms to detect bias, accuracy drift, and regulatory violations, automatically generating explainable audit trails and compliance dashboards.
 Using z/OS Connect, governance insights are securely stored on IBM Z for immutability, enabling regulators and auditors to verify AI integrity instantly.
@@ -16,7 +16,7 @@ This approach creates a self-regulating ecosystem—where AI continuously ensure
 
 ---
 
-### **3. Target Audience (≤ 1024 characters)**
+### **3. Target Audience **
 
 1. **Financial Institutions** – Banks, insurers, and credit agencies that deploy AI models for underwriting, fraud detection, and credit scoring, requiring continuous compliance assurance.
 2. **Regulatory Bodies** – Central banks and data-protection authorities seeking automated, real-time auditing of enterprise AI systems for fairness and governance adherence.
@@ -26,7 +26,7 @@ This approach creates a self-regulating ecosystem—where AI continuously ensure
 
 ---
 
-### **4. Datasets to be Used**
+### **4. Datasets Used**
 
 * **Open-source fairness and bias datasets:** COMPAS, UCI Adult Income, and German Credit Risk for model-bias detection.
 * **Synthetic model-governance logs:** Simulated AI decision logs representing financial risk, loan approval, and compliance events.
