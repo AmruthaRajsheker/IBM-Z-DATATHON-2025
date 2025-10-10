@@ -1,3 +1,5 @@
+# AutoGovern Z
+
 ### **1. Define the Problem Statement (≤ 200 words)**
 
 In today’s AI-driven financial and enterprise ecosystems, regulatory compliance, fairness, and transparency have become critical challenges. As AI models increasingly influence credit scoring, investment decisions, and policy automation, organizations face rising scrutiny over model bias, data drift, and opaque decision pipelines. Traditional audit processes are manual, reactive, and incapable of monitoring real-time AI behavior at scale.
