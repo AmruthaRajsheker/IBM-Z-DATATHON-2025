@@ -1,6 +1,6 @@
 # AutoGovernZ by Amrutha Rajsheker
 
-# AutoGovern Z
+
 
 Continuous, automated AI governance for financial services: real-time bias and drift monitoring, multi-framework compliance scoring, and immutable audit trails — proven in a working Python prototype and designed to scale on IBM Z with watsonx.governance.
 
